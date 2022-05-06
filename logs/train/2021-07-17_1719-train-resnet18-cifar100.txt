@@ -1,0 +1,57 @@
+# Hyper-parameter informations
+- dataset : cifar100
+- is_pretrained : False
+- is_transfered : False
+- epochs : 30
+- batch_size : 64
+- learning_rate : 0.001
+- momentum : 0.9
+- criterion : crossentropy
+- optimizer : sgd
+
+# Logs
+1 epoch loss : 3.880
+1 epoch acc : 11.92
+=========================
+2 epoch loss : 3.195
+2 epoch acc : 22.63
+=========================
+3 epoch loss : 2.831
+3 epoch acc : 29.70
+=========================
+4 epoch loss : 2.534
+4 epoch acc : 35.35
+=========================
+5 epoch loss : 2.271
+5 epoch acc : 41.15
+=========================
+6 epoch loss : 2.018
+6 epoch acc : 47.06
+=========================
+7 epoch loss : 1.774
+7 epoch acc : 52.58
+=========================
+8 epoch loss : 1.535
+8 epoch acc : 58.58
+=========================
+9 epoch loss : 1.315
+9 epoch acc : 63.82
+=========================
+10 epoch loss : 1.088
+10 epoch acc : 70.19
+=========================
+11 epoch loss : 0.886
+11 epoch acc : 75.59
+=========================
+12 epoch loss : 0.693
+12 epoch acc : 80.89
+=========================
+13 epoch loss : 0.531
+13 epoch acc : 85.80
+=========================
+14 epoch loss : 0.401
+14 epoch acc : 89.61
+=========================
+15 epoch loss : 0.289
+15 epoch acc : 92.85
+=========================

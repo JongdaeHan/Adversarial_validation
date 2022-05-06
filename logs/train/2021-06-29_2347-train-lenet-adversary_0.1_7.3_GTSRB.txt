@@ -1,0 +1,99 @@
+# Hyper-parameter informations
+- dataset : adversary_0.1_7.3_GTSRB
+- is_pretrained : False
+- is_transfered : False
+- epochs : 30
+- batch_size : 64
+- learning_rate : 0.001
+- momentum : 0.9
+- criterion : crossentropy
+- optimizer : sgd
+
+# Logs
+1 epoch loss : 3.469
+1 epoch acc : 7.17
+=========================
+2 epoch loss : 3.201
+2 epoch acc : 9.71
+=========================
+3 epoch loss : 3.040
+3 epoch acc : 18.07
+=========================
+4 epoch loss : 2.502
+4 epoch acc : 31.19
+=========================
+5 epoch loss : 2.117
+5 epoch acc : 39.99
+=========================
+6 epoch loss : 1.874
+6 epoch acc : 46.39
+=========================
+7 epoch loss : 1.697
+7 epoch acc : 51.26
+=========================
+8 epoch loss : 1.572
+8 epoch acc : 55.20
+=========================
+9 epoch loss : 1.455
+9 epoch acc : 57.86
+=========================
+10 epoch loss : 1.358
+10 epoch acc : 60.62
+=========================
+11 epoch loss : 1.263
+11 epoch acc : 63.13
+=========================
+12 epoch loss : 1.168
+12 epoch acc : 66.11
+=========================
+13 epoch loss : 1.088
+13 epoch acc : 68.48
+=========================
+14 epoch loss : 1.003
+14 epoch acc : 71.00
+=========================
+15 epoch loss : 0.926
+15 epoch acc : 73.07
+=========================
+16 epoch loss : 0.854
+16 epoch acc : 75.24
+=========================
+17 epoch loss : 0.799
+17 epoch acc : 76.91
+=========================
+18 epoch loss : 0.735
+18 epoch acc : 78.80
+=========================
+19 epoch loss : 0.676
+19 epoch acc : 80.69
+=========================
+20 epoch loss : 0.633
+20 epoch acc : 81.92
+=========================
+21 epoch loss : 0.585
+21 epoch acc : 83.34
+=========================
+22 epoch loss : 0.547
+22 epoch acc : 84.40
+=========================
+23 epoch loss : 0.512
+23 epoch acc : 85.58
+=========================
+24 epoch loss : 0.473
+24 epoch acc : 86.51
+=========================
+25 epoch loss : 0.443
+25 epoch acc : 87.41
+=========================
+26 epoch loss : 0.412
+26 epoch acc : 88.27
+=========================
+27 epoch loss : 0.381
+27 epoch acc : 88.99
+=========================
+28 epoch loss : 0.360
+28 epoch acc : 89.67
+=========================
+29 epoch loss : 0.337
+29 epoch acc : 90.38
+=========================

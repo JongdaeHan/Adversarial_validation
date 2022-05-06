@@ -1,0 +1,14 @@
+python -u train.py \
+       --device cuda \
+       --model vgg16 \
+       --dataset cifar100 \
+       --save_dir ./models/VGG16/ \
+       --num_classes 1000 \
+       --is_pretrained True \
+       --is_transfered False \
+       --epochs 30 \
+       --batch_size 64 \
+       --learning_rate 0.001 \
+       --momentum 0.9 \
+       --criterion crossentropy \
+       --optimizer sgd

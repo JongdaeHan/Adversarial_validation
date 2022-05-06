@@ -1,0 +1,41 @@
+# Hyper-parameter informations
+    - is_pretrained : True
+    - is_transfered : True
+    - epochs : 30
+    - batch_size : 64
+    - learning_rate : 0.001
+    - momentum : 0.9
+    - criterion : crossentropy
+    - optimizer : sgd    
+
+# Logs
+1 epoch loss : 4.607
+2 epoch loss : 4.605
+3 epoch loss : 4.603
+4 epoch loss : 4.597
+5 epoch loss : 4.569
+6 epoch loss : 4.438
+7 epoch loss : 4.255
+8 epoch loss : 4.069
+9 epoch loss : 3.922
+10 epoch loss : 3.809
+11 epoch loss : 3.717
+12 epoch loss : 3.641
+13 epoch loss : 3.574
+14 epoch loss : 3.516
+15 epoch loss : 3.459
+16 epoch loss : 3.404
+17 epoch loss : 3.347
+18 epoch loss : 3.287
+19 epoch loss : 3.222
+20 epoch loss : 3.166
+21 epoch loss : 3.110
+22 epoch loss : 3.060
+23 epoch loss : 3.015
+24 epoch loss : 2.968
+25 epoch loss : 2.927
+26 epoch loss : 2.888
+27 epoch loss : 2.851
+28 epoch loss : 2.817
+29 epoch loss : 2.783
+30 epoch loss : 2.749

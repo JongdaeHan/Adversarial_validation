@@ -1,0 +1,72 @@
+# Hyper-parameter informations
+- dataset : GTSRB_acc
+- is_pretrained : False
+- is_transfered : False
+- epochs : 30
+- batch_size : 64
+- learning_rate : 0.001
+- momentum : 0.9
+- criterion : crossentropy
+- optimizer : sgd
+
+# Logs
+1 epoch loss : 3.551
+1 epoch acc : 5.54
+2 epoch loss : 3.428
+2 epoch acc : 6.97
+3 epoch loss : 2.433
+3 epoch acc : 26.29
+4 epoch loss : 1.255
+4 epoch acc : 57.68
+5 epoch loss : 0.473
+5 epoch acc : 84.52
+6 epoch loss : 0.191
+6 epoch acc : 94.06
+7 epoch loss : 0.104
+7 epoch acc : 96.73
+8 epoch loss : 0.068
+8 epoch acc : 97.88
+9 epoch loss : 0.042
+9 epoch acc : 98.79
+10 epoch loss : 0.027
+10 epoch acc : 99.18
+11 epoch loss : 0.024
+11 epoch acc : 99.27
+12 epoch loss : 0.019
+12 epoch acc : 99.45
+13 epoch loss : 0.012
+13 epoch acc : 99.65
+14 epoch loss : 0.010
+14 epoch acc : 99.73
+15 epoch loss : 0.013
+15 epoch acc : 99.59
+16 epoch loss : 0.008
+16 epoch acc : 99.75
+17 epoch loss : 0.010
+17 epoch acc : 99.68
+18 epoch loss : 0.004
+18 epoch acc : 99.89
+19 epoch loss : 0.007
+19 epoch acc : 99.82
+20 epoch loss : 0.004
+20 epoch acc : 99.91
+21 epoch loss : 0.002
+21 epoch acc : 99.93
+22 epoch loss : 0.004
+22 epoch acc : 99.90
+23 epoch loss : 0.006
+23 epoch acc : 99.83
+24 epoch loss : 0.002
+24 epoch acc : 99.94
+25 epoch loss : 0.001
+25 epoch acc : 99.99
+26 epoch loss : 0.000
+26 epoch acc : 100.00
+27 epoch loss : 0.004
+27 epoch acc : 99.88
+28 epoch loss : 0.004
+28 epoch acc : 99.86
+29 epoch loss : 0.003
+29 epoch acc : 99.90
+30 epoch loss : 0.002
+30 epoch acc : 99.94

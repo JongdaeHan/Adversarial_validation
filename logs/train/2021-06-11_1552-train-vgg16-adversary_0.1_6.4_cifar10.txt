@@ -1,0 +1,42 @@
+# Hyper-parameter informations
+- dataset : adversary_0.1_6.4_cifar10
+- is_pretrained : False
+- is_transfered : False
+- epochs : 30
+- batch_size : 64
+- learning_rate : 0.001
+- momentum : 0.9
+- criterion : crossentropy
+- optimizer : sgd
+
+# Logs
+1 epoch loss : 2.298
+2 epoch loss : 2.050
+3 epoch loss : 1.757
+4 epoch loss : 1.600
+5 epoch loss : 1.474
+6 epoch loss : 1.373
+7 epoch loss : 1.271
+8 epoch loss : 1.174
+9 epoch loss : 1.080
+10 epoch loss : 0.994
+11 epoch loss : 0.901
+12 epoch loss : 0.807
+13 epoch loss : 0.716
+14 epoch loss : 0.626
+15 epoch loss : 0.544
+16 epoch loss : 0.468
+17 epoch loss : 0.402
+18 epoch loss : 0.344
+19 epoch loss : 0.291
+20 epoch loss : 0.255
+21 epoch loss : 0.217
+22 epoch loss : 0.187
+23 epoch loss : 0.164
+24 epoch loss : 0.134
+25 epoch loss : 0.114
+26 epoch loss : 0.111
+27 epoch loss : 0.090
+28 epoch loss : 0.086
+29 epoch loss : 0.081
+30 epoch loss : 0.064

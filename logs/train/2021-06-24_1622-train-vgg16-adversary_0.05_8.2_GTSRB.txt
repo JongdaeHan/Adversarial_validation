@@ -1,0 +1,36 @@
+# Hyper-parameter informations
+- dataset : adversary_0.05_8.2_GTSRB
+- is_pretrained : False
+- is_transfered : False
+- epochs : 30
+- batch_size : 64
+- learning_rate : 0.001
+- momentum : 0.9
+- criterion : crossentropy
+- optimizer : sgd
+
+# Logs
+1 epoch loss : 3.381
+1 epoch acc : 6.65
+=========================
+2 epoch loss : 3.218
+2 epoch acc : 8.55
+=========================
+3 epoch loss : 2.587
+3 epoch acc : 23.48
+=========================
+4 epoch loss : 1.319
+4 epoch acc : 59.69
+=========================
+5 epoch loss : 0.799
+5 epoch acc : 75.91
+=========================
+6 epoch loss : 0.527
+6 epoch acc : 84.18
+=========================
+7 epoch loss : 0.374
+7 epoch acc : 88.65
+=========================
+8 epoch loss : 0.265
+8 epoch acc : 91.93
+=========================

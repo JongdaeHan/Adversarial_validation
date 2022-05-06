@@ -1,0 +1,87 @@
+# Hyper-parameter informations
+- dataset : adversary_0.05_7.3_GTSRB
+- is_pretrained : False
+- is_transfered : False
+- epochs : 30
+- batch_size : 64
+- learning_rate : 0.001
+- momentum : 0.9
+- criterion : crossentropy
+- optimizer : sgd
+
+# Logs
+1 epoch loss : 3.520
+1 epoch acc : 6.87
+=========================
+2 epoch loss : 3.209
+2 epoch acc : 8.27
+=========================
+3 epoch loss : 3.148
+3 epoch acc : 12.24
+=========================
+4 epoch loss : 2.855
+4 epoch acc : 21.34
+=========================
+5 epoch loss : 2.291
+5 epoch acc : 35.67
+=========================
+6 epoch loss : 1.855
+6 epoch acc : 47.13
+=========================
+7 epoch loss : 1.603
+7 epoch acc : 54.58
+=========================
+8 epoch loss : 1.434
+8 epoch acc : 58.96
+=========================
+9 epoch loss : 1.292
+9 epoch acc : 62.98
+=========================
+10 epoch loss : 1.193
+10 epoch acc : 65.60
+=========================
+11 epoch loss : 1.099
+11 epoch acc : 68.18
+=========================
+12 epoch loss : 1.012
+12 epoch acc : 70.55
+=========================
+13 epoch loss : 0.924
+13 epoch acc : 73.20
+=========================
+14 epoch loss : 0.854
+14 epoch acc : 75.15
+=========================
+15 epoch loss : 0.785
+15 epoch acc : 77.15
+=========================
+16 epoch loss : 0.715
+16 epoch acc : 79.14
+=========================
+17 epoch loss : 0.658
+17 epoch acc : 80.79
+=========================
+18 epoch loss : 0.602
+18 epoch acc : 82.52
+=========================
+19 epoch loss : 0.560
+19 epoch acc : 83.48
+=========================
+20 epoch loss : 0.503
+20 epoch acc : 85.31
+=========================
+21 epoch loss : 0.467
+21 epoch acc : 86.30
+=========================
+22 epoch loss : 0.427
+22 epoch acc : 87.67
+=========================
+23 epoch loss : 0.391
+23 epoch acc : 88.67
+=========================
+24 epoch loss : 0.363
+24 epoch acc : 89.54
+=========================
+25 epoch loss : 0.337
+25 epoch acc : 90.22
+=========================

@@ -1,0 +1,42 @@
+# Hyper-parameter informations
+- dataset : adversary_0.1_7.3_GTSRB
+- is_pretrained : False
+- is_transfered : False
+- epochs : 30
+- batch_size : 64
+- learning_rate : 0.001
+- momentum : 0.9
+- criterion : crossentropy
+- optimizer : sgd
+
+# Logs
+1 epoch loss : 3.591
+2 epoch loss : 3.222
+3 epoch loss : 3.169
+4 epoch loss : 2.959
+5 epoch loss : 2.445
+6 epoch loss : 2.054
+7 epoch loss : 1.833
+8 epoch loss : 1.675
+9 epoch loss : 1.536
+10 epoch loss : 1.402
+11 epoch loss : 1.289
+12 epoch loss : 1.173
+13 epoch loss : 1.075
+14 epoch loss : 0.980
+15 epoch loss : 0.886
+16 epoch loss : 0.817
+17 epoch loss : 0.739
+18 epoch loss : 0.683
+19 epoch loss : 0.623
+20 epoch loss : 0.578
+21 epoch loss : 0.533
+22 epoch loss : 0.497
+23 epoch loss : 0.453
+24 epoch loss : 0.426
+25 epoch loss : 0.395
+26 epoch loss : 0.364
+27 epoch loss : 0.340
+28 epoch loss : 0.314
+29 epoch loss : 0.297
+30 epoch loss : 0.273
