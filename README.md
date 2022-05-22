@@ -1,6 +1,6 @@
 # experimental codes for adversalial validation
 
-if you need modified dataset(~17GB), please contact to elvenwhite@smu.ac.kr.
+if you need modified dataset(~17GB), please contact to elvenwhite@smu.ac.kr or aggsae@gmail.com .
 
 ## train
 
@@ -14,39 +14,39 @@ if you need modified dataset(~17GB), please contact to elvenwhite@smu.ac.kr.
 
 ## options
 
-### 학습 & 평가 공통(base_options)
+### training & evaluation(base_options)
 
-* --device : GPU 사용 여부
+* --device : enables GPU 
 
-* --model : 사용할 모델(vgg16, lenet, resnet18)
+* --model : select model(vgg16, lenet, resnet18)
 
-* --save_dir : 학습이 완료된 모델이 저장되는 경로
+* --save_dir : path to saved model
 
-* --num_classes : 데이터 셋의 클래스 수
+* --num_classes : number of classes belongs to training dataset
 
-### 학습
+### for training only
 
-* --is_pretrained : torch.utils.model_zoo를 통해 학습이 이루어진 모델을 사용할 것인지
+* --is_pretrained : enable torch.utils.model_zoo pretrained model
 
-* --is_transfered : 학습된 모델을 가져와 전이학습을 진행할 것인지
+* --is_transfered : enable transfer learning
 
-* --epochs : 학습할 에폭 횟수
+* --epochs : maximum number of epochs for training(default 30)
 
-* --batch_size : 학습에 대한 배치 사이즈(평가 따로 사용)
+* --batch_size 
 
 * --learning_rate
 
 * --momentum
 
-* --criterion : 학습에 사용할 손실 함수(crossentropy, mseloss)
+* --criterion : loss function for training(crossentropy, mseloss)
 
-* --optimizer : 학습에 사용할 최적화 함수(sgd, adam)
+* --optimizer : optimizer for training(sgd, adam)
 
-### 평가
+### for evaluation only
 
-* --epochs : 평가를 진행할 에폭 횟수
+* --epochs : number of epochs for evaluation
 
-* --batch_size : 평가에 대한 배치 사이즈
+* --batch_size 
 
-* --saved_model : 불러올 모델의 숫자, 매 에폭마다 모델을 저장함
+* --saved_model : ckpt number of a model to be used for evaluation
 
