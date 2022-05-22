@@ -1,6 +1,6 @@
 # experimental codes for adversalial validation
 
-if you need modified dataset(~17GB), please contact to elvenwhite@smu.ac.kr or aggsae@gmail.com .
+if you need modified dataset(~1.6GB), please contact to elvenwhite@smu.ac.kr or aggsae@gmail.com .
 
 ## train
 
