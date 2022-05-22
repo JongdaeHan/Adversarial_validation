@@ -1,12 +1,12 @@
 # experimental codes for adversalial validation
 
-if you need modified dataset(~1.6GB), please contact to elvenwhite@smu.ac.kr or aggsae@gmail.com .
+if you need modified dataset(~1.6GB), visit http://gofile.me/5ZfSG/zkqMDmXfr
 
-## train
+## usage example : train
 
 `python train.py --model lenet --save_dir ./models/LeNet/`
 
-## test
+## usage example : evaluate
 
 `python test.py --model lenet --save_dir ./models/LeNet/`
 
