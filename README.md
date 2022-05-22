@@ -1,4 +1,6 @@
-# paper_experiment
+# experimental codes for adversalial validation
+
+if you need modified dataset(~17GB), please contact to elvenwhite@smu.ac.kr.
 
 ## train
 
